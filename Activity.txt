@@ -1,0 +1,3 @@
+Name: Jaylene Mangotara
+Course: IT20A
+Activity: Basics of Git and Github
